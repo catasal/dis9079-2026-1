@@ -1,10 +1,10 @@
-# grupo-xx
+# grupo-04
 
 ## integrantes
 
-* nombre completo
-* nombre completo
-* nombre completo
+* martina alegria
+* antolella 
+* catalina salinas
 
 ## descripción del proyecto
 

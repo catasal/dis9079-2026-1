@@ -34,4 +34,4 @@
 
 ## Bibliografía
 
-+ <https://www.youtube.com/watch?v=d_odoKbEjgg&t=120s>
++ <https://www.youtube.com/watch?v=d_odoKbEjgg&t=120s>, en donde nos enseñan cómo conectar un push button a una raspberry.

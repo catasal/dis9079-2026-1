@@ -3,9 +3,10 @@
 lunes 18 mayo 2026
 
 solemne 2
-#enviar información a adafruit
 
-<img width="807" height="642" alt="luz led" src="https://github.com/user-attachments/assets/6a7446cd-a26e-42a2-a4fb-b868a20945d2" />
+# enviar información a adafruit
+<img width="1882" height="861" alt="io adafruit" src="https://github.com/user-attachments/assets/1de7832a-c0d0-4533-b3dd-0c3307738fac" />
+
 
 # como se puede encender una luz led externa 
 
@@ -41,4 +42,5 @@ void loop() {
 }
 
 
-<img width="1882" height="861" alt="io adafruit" src="https://github.com/user-attachments/assets/2790d91f-040f-467e-b0ad-b69876094b2b" />
+<img width="807" height="642" alt="luz led" src="https://github.com/user-attachments/assets/a802100f-499b-43e8-9c0d-9e1918205516" />
+
